@@ -1,9 +1,9 @@
 const LinksSocialMedia = {
   github: 'alissonRH',
   instagram: 'alissonhonoratoo',
-  twitter: 'alissonRech',
+  twitter: 'alissonRech_',
   facebook: 'alissonRech',
-  linkedin: 'alisson-rech-honorato-7906b5158/'
+  linkedin: 'in/alisson-rech-honorato-7906b5158/'
 }
 
 
